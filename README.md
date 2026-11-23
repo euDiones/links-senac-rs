@@ -75,16 +75,16 @@ Canais oficiais para informações e comunicação com o Senac RS.
 
 ## 🎨 Identidade visual
 
-O projeto utiliza uma paleta de cores personalizada, inspirada na identidade visual definida para a interface.
+A paleta de cores do projeto foi construída para compor a interface com foco no tema lavanda e roxo, mantendo harmonia com a tipografia e os estados interativos de *hover*:
 
-| Cor | Código 
-|---|---
-| Azul | `#2f1cb7` 
-| Roxo | `#542cac` 
-| Laranja | `#f25a27` 
-| Amarelo | `#efb12f` 
-| Preto | `#000000` 
-| Branco | `#FFFFFF`
+| Aplicação | Tom / Função | Código Hex | Visual |
+| :--- | :--- | :--- | :---: |
+| **Título Principal (Início)** | Roxo Primário (Gradiente) | `#6541B3` | `rgb(101, 65, 179)` |
+| **Título Principal (Fim)** | Lavanda Claro (Gradiente) | `#CCC0E5` | `rgb(204, 192, 229)` |
+| **Cards (Hover)** | Roxo Médio Interativo | `#AB91E3` | `rgb(171, 145, 227)` |
+| **Bordas dos Cards (Padrão)** | Lilás Suave | `#D8CFEB` | `rgb(216, 207, 235)` |
+| **Texto Base / Ícones** | Preto Neutro | `#000000` | `rgb(0, 0, 0)` |
+| **Fundo da Página / Texto Hover** | Branco Neutro | `#FFFFFF` | `rgb(255, 255, 255)` |
 
 ## 🛠️ Tecnologias utilizadas
 
